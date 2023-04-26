@@ -1,0 +1,26 @@
+.header-sem{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;   
+}
+/* style for whole container of boxes*/
+.container-sem{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.child{
+    height:300px;
+    width: 300px;
+    background-color: #B8E7E1;
+    border-radius: 10px;
+}
+/* styles inside each box */
+h3{ 
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Anton', sans-serif;
+}
