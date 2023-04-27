@@ -620,7 +620,7 @@ a:focus {
   font-size: 18px;
 }
 
-.card-body .btn {
+.card-body .btn{
   display: block;
   color: #fff;
   text-align: center;
@@ -629,6 +629,8 @@ a:focus {
   text-decoration: none;
   padding: 10px 5px;
 }
+
+
 
 .card:hover {
   transform: scale(1.05);
